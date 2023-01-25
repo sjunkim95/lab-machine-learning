@@ -1,2 +1,2 @@
 # lab-machine-learning
-lab-machine-learning
+* machine-learning
